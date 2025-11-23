@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.mo
+*.env
+.env*
+venv/
+ENV/
+.envrc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Data and model files
+*.bin
+*.pt
+*.h5
+*.ckpt
+*.npy
+*.npz
+*.csv
+*.tsv
+*.jsonl
+*.pkl
+*.joblib
+*.onnx
+
+# Datasets
+*.csv
+*.tsv
+*.jsonl
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Others
+*.swp
+*.bak
+*.tmp
+
+# Test and coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Ignore local config
+config.yaml
+config.json
