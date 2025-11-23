@@ -62,3 +62,4 @@ htmlcov/
 # Ignore local config
 config.yaml
 config.json
+.DS_Store
